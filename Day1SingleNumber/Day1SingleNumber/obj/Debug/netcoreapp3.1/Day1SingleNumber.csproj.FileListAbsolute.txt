@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\bin\Debug\netcoreapp3.1\Day1SingleNumber.exe
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\bin\Debug\netcoreapp3.1\Day1SingleNumber.deps.json
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\bin\Debug\netcoreapp3.1\Day1SingleNumber.runtimeconfig.json
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\bin\Debug\netcoreapp3.1\Day1SingleNumber.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\bin\Debug\netcoreapp3.1\Day1SingleNumber.dll
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\bin\Debug\netcoreapp3.1\Day1SingleNumber.pdb
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\obj\Debug\netcoreapp3.1\Day1SingleNumber.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\obj\Debug\netcoreapp3.1\Day1SingleNumber.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\obj\Debug\netcoreapp3.1\Day1SingleNumber.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\obj\Debug\netcoreapp3.1\Day1SingleNumber.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\obj\Debug\netcoreapp3.1\Day1SingleNumber.dll
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\obj\Debug\netcoreapp3.1\Day1SingleNumber.pdb
+C:\Users\Micha\source\repos\Day1SingleNumber\Day1SingleNumber\obj\Debug\netcoreapp3.1\Day1SingleNumber.genruntimeconfig.cache
