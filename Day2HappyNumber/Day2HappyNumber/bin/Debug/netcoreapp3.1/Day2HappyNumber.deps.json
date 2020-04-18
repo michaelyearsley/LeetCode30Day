@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Day2HappyNumber/1.0.0": {
+        "runtime": {
+          "Day2HappyNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day2HappyNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
