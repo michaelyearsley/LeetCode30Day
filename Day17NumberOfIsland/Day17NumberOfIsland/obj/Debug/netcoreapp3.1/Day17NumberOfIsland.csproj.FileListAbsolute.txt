@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\bin\Debug\netcoreapp3.1\Day17NumberOfIsland.exe
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\bin\Debug\netcoreapp3.1\Day17NumberOfIsland.deps.json
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\bin\Debug\netcoreapp3.1\Day17NumberOfIsland.runtimeconfig.json
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\bin\Debug\netcoreapp3.1\Day17NumberOfIsland.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\bin\Debug\netcoreapp3.1\Day17NumberOfIsland.dll
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\bin\Debug\netcoreapp3.1\Day17NumberOfIsland.pdb
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\obj\Debug\netcoreapp3.1\Day17NumberOfIsland.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\obj\Debug\netcoreapp3.1\Day17NumberOfIsland.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\obj\Debug\netcoreapp3.1\Day17NumberOfIsland.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\obj\Debug\netcoreapp3.1\Day17NumberOfIsland.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\obj\Debug\netcoreapp3.1\Day17NumberOfIsland.dll
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\obj\Debug\netcoreapp3.1\Day17NumberOfIsland.pdb
+C:\Users\Micha\source\repos\Day17NumberOfIsland\Day17NumberOfIsland\obj\Debug\netcoreapp3.1\Day17NumberOfIsland.genruntimeconfig.cache
