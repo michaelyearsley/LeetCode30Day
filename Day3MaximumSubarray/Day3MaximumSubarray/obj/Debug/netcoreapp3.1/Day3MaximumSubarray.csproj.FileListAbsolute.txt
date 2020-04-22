@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\bin\Debug\netcoreapp3.1\Day3MaximumSubarray.exe
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\bin\Debug\netcoreapp3.1\Day3MaximumSubarray.deps.json
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\bin\Debug\netcoreapp3.1\Day3MaximumSubarray.runtimeconfig.json
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\bin\Debug\netcoreapp3.1\Day3MaximumSubarray.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\bin\Debug\netcoreapp3.1\Day3MaximumSubarray.dll
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\bin\Debug\netcoreapp3.1\Day3MaximumSubarray.pdb
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\obj\Debug\netcoreapp3.1\Day3MaximumSubarray.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\obj\Debug\netcoreapp3.1\Day3MaximumSubarray.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\obj\Debug\netcoreapp3.1\Day3MaximumSubarray.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\obj\Debug\netcoreapp3.1\Day3MaximumSubarray.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\obj\Debug\netcoreapp3.1\Day3MaximumSubarray.dll
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\obj\Debug\netcoreapp3.1\Day3MaximumSubarray.pdb
+C:\Users\Micha\source\repos\Day3MaximumSubarray\Day3MaximumSubarray\obj\Debug\netcoreapp3.1\Day3MaximumSubarray.genruntimeconfig.cache
