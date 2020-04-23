@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\obj\Debug\netcoreapp3.1\Day4MoveZeroes.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\obj\Debug\netcoreapp3.1\Day4MoveZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\obj\Debug\netcoreapp3.1\Day4MoveZeroes.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\obj\Debug\netcoreapp3.1\Day4MoveZeroes.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\bin\Debug\netcoreapp3.1\Day4MoveZeroes.exe
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\bin\Debug\netcoreapp3.1\Day4MoveZeroes.deps.json
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\bin\Debug\netcoreapp3.1\Day4MoveZeroes.runtimeconfig.json
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\bin\Debug\netcoreapp3.1\Day4MoveZeroes.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\bin\Debug\netcoreapp3.1\Day4MoveZeroes.dll
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\bin\Debug\netcoreapp3.1\Day4MoveZeroes.pdb
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\obj\Debug\netcoreapp3.1\Day4MoveZeroes.dll
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\obj\Debug\netcoreapp3.1\Day4MoveZeroes.pdb
+C:\Users\Micha\source\repos\Day4MoveZeroes\Day4MoveZeroes\obj\Debug\netcoreapp3.1\Day4MoveZeroes.genruntimeconfig.cache
